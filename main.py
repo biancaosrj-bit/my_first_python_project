@@ -1,4 +1,4 @@
-def in_autotests_we_trust(a, b):
+def in_autotests_we_trust(a, b):# Prática de Git: Stage, Commit e Push
     if a == b:
         print('Passou no teste')
     else:
